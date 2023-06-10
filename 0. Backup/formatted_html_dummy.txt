@@ -1,0 +1,1655 @@
+<tbody class="topic-list-body">
+ <tr class="topic-list-item category-governance-meta has-excerpt pinned ember-view" data-topic-id="7732" id="ember30">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <div class="topic-statuses">
+     <span class="topic-status" title="This topic is pinned for you; it will display at the top of its category">
+      <svg class="fa d-icon d-icon-thumbtack svg-icon pinned svg-string" xmlns="http://www.w3.org/2000/svg">
+       <use href="#thumbtack">
+       </use>
+      </svg>
+     </span>
+    </div>
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="7732" href="/t/community-governance-process/7732" role="heading">
+     Community Governance Process
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/governance-meta/8">
+     <span class="badge-category-bg" style="background-color: #652D90;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="This section is for discussions around governance systems, ways of distributing resources, how the community should think about governance responsibilities–basically all things related to governance, but which are not a specific proposal.">
+      <span class="category-name">
+       Governance-Meta
+      </span>
+     </span>
+    </a>
+   </div>
+   <a class="topic-excerpt" href="/t/community-governance-process/7732">
+    This document is a suggested process for developing and advancing Uniswap Governance Proposals. It is a living document intended to be owned, modified and enforced by the Uniswap community. 
+Note: Autonomous proposals ar…
+    <span class="topic-excerpt-more">
+     read more
+    </span>
+   </a>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="ashleigh" href="/u/ashleigh">
+    <img alt="" aria-label="ashleigh - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/ashleigh/50/10_2.png" title="ashleigh - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="neonnightsnz" href="/u/neonnightsnz">
+    <img alt="" aria-label="neonnightsnz - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/neonnightsnz/50/3967_2.png" title="neonnightsnz - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="Tonne" href="/u/tonne">
+    <img alt="" aria-label="Tonne - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/tonne/50/5428_2.png" title="Tonne - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="ichibiton" href="/u/ichibiton">
+    <img alt="" aria-label="ichibiton - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/ichibiton/50/6016_2.png" title="ichibiton - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="Noobmasser" href="/u/noobmasser">
+    <img alt="" aria-label="Noobmasser - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/noobmasser/50/7323_2.png" title="Noobmasser - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts heatmap-high topic-list-data" title="This topic has 31 replies with an extremely high like to post ratio">
+   <button aria-label="This topic has 31 replies with an extremely high like to post ratio" class="btn-link posts-map badge-posts heatmap-high">
+    <span class="number">
+     31
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-high topic-list-data">
+   <span class="number" title="this topic has been viewed 33355 times">
+    33.4k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-high activity" title="First post: Oct 26, 2020 8:33 pm
+Posted: Apr 7, 2023 10:35 pm
+">
+   <a class="post-activity" href="/t/community-governance-process/7732/40">
+    <span class="relative-date" data-format="tiny" data-time="1680887124513">
+     Apr 7
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-uncategorized has-excerpt pinned closed ember-view" data-topic-id="5142" id="ember31">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <div class="topic-statuses">
+     <span class="topic-status" title="This topic is closed; it no longer accepts new replies">
+      <svg class="fa d-icon d-icon-lock svg-icon locked svg-string" xmlns="http://www.w3.org/2000/svg">
+       <use href="#lock">
+       </use>
+      </svg>
+     </span>
+     <span class="topic-status" title="This topic is pinned for you; it will display at the top of its category">
+      <svg class="fa d-icon d-icon-thumbtack svg-icon pinned svg-string" xmlns="http://www.w3.org/2000/svg">
+       <use href="#thumbtack">
+       </use>
+      </svg>
+     </span>
+    </div>
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="5142" href="/t/uniswap-governance-forum-rules/5142" role="heading">
+     Uniswap Governance Forum Rules
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+   </div>
+   <a class="topic-excerpt" href="/t/uniswap-governance-forum-rules/5142">
+    This forum is dedicated to discussions on Uniswap governance. Relevant topics include: 
+
+Governance Proposals
+Proposal Discussions
+Delegation Pitches
+Site Feedback
+
+This is not the place for: 
+
+UNI price discussion
+Gener…
+    <span class="topic-excerpt-more">
+     read more
+    </span>
+   </a>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="Noah" href="/u/noah">
+    <img alt="" aria-label="Noah - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/noah/50/225_2.png" title="Noah - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 2 replies">
+   <button aria-label="This topic has 2 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     2
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-high topic-list-data">
+   <span class="number" title="this topic has been viewed 9846 times">
+    9.8k
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: Sep 22, 2020 1:03 am
+Posted: Sep 22, 2020 1:03 am
+">
+   <a class="post-activity" href="/t/uniswap-governance-forum-rules/5142/3">
+    <span class="relative-date with-year" data-format="tiny" data-time="1600716787761">
+     Sep '20
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-governance-meta ember-view" data-topic-id="17803" id="ember32">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="17803" href="/t/governance-weekly-recap/17803" role="heading">
+     Governance Weekly Recap
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/governance-meta/8">
+     <span class="badge-category-bg" style="background-color: #652D90;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="This section is for discussions around governance systems, ways of distributing resources, how the community should think about governance responsibilities–basically all things related to governance, but which are not a specific proposal.">
+      <span class="category-name">
+       Governance-Meta
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="Boardroom" href="/u/boardroom">
+    <img alt="" aria-label="Boardroom - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/boardroom/50/5790_2.png" title="Boardroom - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="jianglingling123" href="/u/jianglingling123">
+    <img alt="" aria-label="jianglingling123 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/jianglingling123/50/6474_2.png" title="jianglingling123 - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="Spongky" href="/u/spongky">
+    <img alt="" aria-label="Spongky - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/spongky/50/6583_2.png" title="Spongky - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="Elissawi2021" href="/u/elissawi2021">
+    <img alt="" aria-label="Elissawi2021 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/e/f07891/50.png" title="Elissawi2021 - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="Jenny22-byt" href="/u/jenny22-byt">
+    <img alt="" aria-label="Jenny22-byt - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/jenny22-byt/50/7549_2.png" title="Jenny22-byt - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 21 replies">
+   <button aria-label="This topic has 21 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     21
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-med topic-list-data">
+   <span class="number" title="this topic has been viewed 2921 times">
+    2.9k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-high activity" title="First post: Oct 4, 2022 12:29 am
+Posted: May 26, 2023 1:17 pm
+">
+   <a class="post-activity" href="/t/governance-weekly-recap/17803/22">
+    <span class="relative-date" data-format="tiny" data-time="1685087248300">
+     2d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-delegation-pitch ember-view" data-topic-id="20181" id="ember33">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="20181" href="/t/wintermute-delegate-platform/20181" role="heading">
+     Wintermute Delegate Platform
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/delegation-pitch/6">
+     <span class="badge-category-bg" style="background-color: #12A89D;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="Explain why members of the Uniswap community may want to delegate their votes to you!">
+      <span class="category-name">
+       Delegation Pitch
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="WintermuteGovernance" href="/u/wintermutegovernance">
+    <img alt="" aria-label="WintermuteGovernance - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/wintermutegovernance/50/6860_2.png" title="WintermuteGovernance - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 5 replies">
+   <button aria-label="This topic has 5 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     5
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 1475 times">
+    1.5k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-med activity" title="First post: Jan 31, 2023 5:14 am
+Posted: May 26, 2023 5:56 am
+">
+   <a class="post-activity" href="/t/wintermute-delegate-platform/20181/6">
+    <span class="relative-date" data-format="tiny" data-time="1685060765298">
+     3d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21261" id="ember34">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21261" href="/t/deploy-uniswap-v3-on-linea/21261" role="heading">
+     Deploy Uniswap V3 on Linea
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="DAOstrat.C" href="/u/daostrat.c">
+    <img alt="" aria-label="DAOstrat.C - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/daostrat.c/50/5625_2.png" title="DAOstrat.C - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 1 reply">
+   <button aria-label="This topic has 1 reply" class="btn-link posts-map badge-posts">
+    <span class="number">
+     1
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 406 times">
+    406
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 18, 2023 5:04 pm
+Posted: May 26, 2023 2:28 am
+">
+   <a class="post-activity" href="/t/deploy-uniswap-v3-on-linea/21261/2">
+    <span class="relative-date" data-format="tiny" data-time="1685048287376">
+     3d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21309" id="ember35">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21309" href="/t/deploy-uniswap-v3-on-filecoin-virtual-machine-fvm/21309" role="heading">
+     Deploy Uniswap v3 on Filecoin Virtual Machine (FVM)
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="AbdullahUmar" href="/u/abdullahumar">
+    <img alt="" aria-label="AbdullahUmar - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/abdullahumar/50/6588_2.png" title="AbdullahUmar - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 0 replies">
+   <button aria-label="This topic has 0 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     0
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 188 times">
+    188
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 25, 2023 11:36 pm
+Posted: May 25, 2023 11:36 pm
+">
+   <a class="post-activity" href="/t/deploy-uniswap-v3-on-filecoin-virtual-machine-fvm/21309/1">
+    <span class="relative-date" data-format="tiny" data-time="1685037963764">
+     3d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21287" id="ember36">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21287" href="/t/request-for-proposals-arb-distribution/21287" role="heading">
+     Request for Proposals - ARB Distribution
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="eek637" href="/u/eek637">
+    <img alt="" aria-label="eek637 - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/eek637/50/7037_2.png" title="eek637 - Original Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="t_norm" href="/u/t_norm">
+    <img alt="" aria-label="t_norm - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/t/ecc23a/50.png" title="t_norm - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 1 reply">
+   <button aria-label="This topic has 1 reply" class="btn-link posts-map badge-posts">
+    <span class="number">
+     1
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 420 times">
+    420
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 24, 2023 4:05 am
+Posted: May 25, 2023 11:35 pm
+">
+   <a class="post-activity" href="/t/request-for-proposals-arb-distribution/21287/2">
+    <span class="relative-date" data-format="tiny" data-time="1685037939011">
+     3d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21198" id="ember37">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21198" href="/t/making-protocol-fees-operational/21198" role="heading">
+     Making Protocol Fees Operational
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest" data-user-card="GFXlabs" href="/u/gfxlabs">
+    <img alt="" aria-label="GFXlabs - Original Poster, Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/gfxlabs/50/4510_2.png" title="GFXlabs - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="NativeLabs" href="/u/nativelabs">
+    <img alt="" aria-label="NativeLabs - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/nativelabs/50/7432_2.png" title="NativeLabs - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="Milli3E" href="/u/milli3e">
+    <img alt="" aria-label="Milli3E - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/milli3e/50/5343_2.png" title="Milli3E - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="kfx" href="/u/kfx">
+    <img alt="" aria-label="kfx - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/kfx/50/6717_2.png" title="kfx - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="blockson" href="/u/blockson">
+    <img alt="" aria-label="blockson - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/blockson/50/7518_2.png" title="blockson - Frequent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts heatmap-med topic-list-data" title="This topic has 26 replies with a very high like to post ratio">
+   <button aria-label="This topic has 26 replies with a very high like to post ratio" class="btn-link posts-map badge-posts heatmap-med">
+    <span class="number">
+     26
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-med topic-list-data">
+   <span class="number" title="this topic has been viewed 4193 times">
+    4.2k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-low activity" title="First post: May 10, 2023 10:30 pm
+Posted: May 25, 2023 11:08 pm
+">
+   <a class="post-activity" href="/t/making-protocol-fees-operational/21198/28">
+    <span class="relative-date" data-format="tiny" data-time="1685036326048">
+     3d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-uncategorized ember-view" data-topic-id="21293" id="ember38">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21293" href="/t/structure-of-power/21293" role="heading">
+     Structure of Power
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="noturhandle" href="/u/noturhandle">
+    <img alt="" aria-label="noturhandle - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/noturhandle/50/7433_2.png" title="noturhandle - Original Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="GFXlabs" href="/u/gfxlabs">
+    <img alt="" aria-label="GFXlabs - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/gfxlabs/50/4510_2.png" title="GFXlabs - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 1 reply">
+   <button aria-label="This topic has 1 reply" class="btn-link posts-map badge-posts">
+    <span class="number">
+     1
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 148 times">
+    148
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 24, 2023 10:24 pm
+Posted: May 25, 2023 9:32 pm
+">
+   <a class="post-activity" href="/t/structure-of-power/21293/2">
+    <span class="relative-date" data-format="tiny" data-time="1685030570570">
+     3d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-temperature-check ember-view" data-topic-id="21290" id="ember39">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21290" href="/t/rfc-uniswap-v3-deployment-to-fantom/21290" role="heading">
+     RFC - Uniswap V3 Deployment to Fantom
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/temperature-check/9">
+     <span class="badge-category-bg" style="background-color: #F7941D;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="The purpose of the Temperature Check is to determine if there is sufficient will to make changes to the status quo.">
+      <span class="category-name">
+       Temperature Check
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="blockchaincolumbia" href="/u/blockchaincolumbia">
+    <img alt="" aria-label="blockchaincolumbia - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/blockchaincolumbia/50/6943_2.png" title="blockchaincolumbia - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="0xkeyrock.eth" href="/u/0xkeyrock.eth">
+    <img alt="" aria-label="0xkeyrock.eth - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/0xkeyrock.eth/50/7304_2.png" title="0xkeyrock.eth - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="WintermuteGovernance" href="/u/wintermutegovernance">
+    <img alt="" aria-label="WintermuteGovernance - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/wintermutegovernance/50/6860_2.png" title="WintermuteGovernance - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="UniteAllChains" href="/u/uniteallchains">
+    <img alt="" aria-label="UniteAllChains - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/uniteallchains/50/7538_2.png" title="UniteAllChains - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 3 replies">
+   <button aria-label="This topic has 3 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     3
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 737 times">
+    737
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 24, 2023 1:52 pm
+Posted: May 25, 2023 6:21 pm
+">
+   <a class="post-activity" href="/t/rfc-uniswap-v3-deployment-to-fantom/21290/4">
+    <span class="relative-date" data-format="tiny" data-time="1685019089412">
+     3d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-governance-meta ember-view" data-topic-id="21281" id="ember40">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21281" href="/t/delegation-week-in-uniswap-dao/21281" role="heading">
+     Delegation Week in Uniswap DAO
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/governance-meta/8">
+     <span class="badge-category-bg" style="background-color: #652D90;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="This section is for discussions around governance systems, ways of distributing resources, how the community should think about governance responsibilities–basically all things related to governance, but which are not a specific proposal.">
+      <span class="category-name">
+       Governance-Meta
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="rafaelsolari" href="/u/rafaelsolari">
+    <img alt="" aria-label="rafaelsolari - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/rafaelsolari/50/7220_2.png" title="rafaelsolari - Original Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="0xkeyrock.eth" href="/u/0xkeyrock.eth">
+    <img alt="" aria-label="0xkeyrock.eth - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/0xkeyrock.eth/50/7304_2.png" title="0xkeyrock.eth - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 1 reply">
+   <button aria-label="This topic has 1 reply" class="btn-link posts-map badge-posts">
+    <span class="number">
+     1
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 159 times">
+    159
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 23, 2023 12:33 am
+Posted: May 23, 2023 6:28 pm
+">
+   <a class="post-activity" href="/t/delegation-week-in-uniswap-dao/21281/2">
+    <span class="relative-date" data-format="tiny" data-time="1684846680376">
+     5d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-delegation-pitch ember-view" data-topic-id="12755" id="ember41">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="12755" href="/t/franklindao-prev-penn-blockchain-delegate-platform/12755" role="heading">
+     FranklinDAO (Prev. Penn Blockchain) Delegate Platform
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/delegation-pitch/6">
+     <span class="badge-category-bg" style="background-color: #12A89D;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="Explain why members of the Uniswap community may want to delegate their votes to you!">
+      <span class="category-name">
+       Delegation Pitch
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest" data-user-card="pennblockchain" href="/u/pennblockchain">
+    <img alt="" aria-label="pennblockchain - Original Poster, Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/pennblockchain/50/5731_2.png" title="pennblockchain - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="devinwalsh" href="/u/devinwalsh">
+    <img alt="" aria-label="devinwalsh - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/devinwalsh/50/5593_2.png" title="devinwalsh - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="zhou407134" href="/u/zhou407134">
+    <img alt="" aria-label="zhou407134 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/z/e47c2d/50.png" title="zhou407134 - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="Scroll" href="/u/scroll">
+    <img alt="" aria-label="Scroll - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/scroll/50/5900_2.png" title="Scroll - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="eek637" href="/u/eek637">
+    <img alt="" aria-label="eek637 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/eek637/50/7037_2.png" title="eek637 - Frequent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 28 replies">
+   <button aria-label="This topic has 28 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     28
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-med topic-list-data">
+   <span class="number" title="this topic has been viewed 3408 times">
+    3.4k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-high activity" title="First post: Jun 2, 2021 11:01 pm
+Posted: May 18, 2023 11:55 pm
+">
+   <a class="post-activity" href="/t/franklindao-prev-penn-blockchain-delegate-platform/12755/29">
+    <span class="relative-date" data-format="tiny" data-time="1684434309153">
+     10d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21249" id="ember42">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21249" href="/t/deploy-uniswap-v3-on-base/21249" role="heading">
+     Deploy Uniswap v3 on Base
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="she256" href="/u/she256">
+    <img alt="" aria-label="she256 - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/she256/50/7488_2.png" title="she256 - Original Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="bellonoff" href="/u/bellonoff">
+    <img alt="" aria-label="bellonoff - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/bellonoff/50/7236_2.png" title="bellonoff - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 1 reply">
+   <button aria-label="This topic has 1 reply" class="btn-link posts-map badge-posts">
+    <span class="number">
+     1
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 1530 times">
+    1.5k
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 17, 2023 9:28 pm
+Posted: May 18, 2023 2:44 pm
+">
+   <a class="post-activity" href="/t/deploy-uniswap-v3-on-base/21249/2">
+    <span class="relative-date" data-format="tiny" data-time="1684401269670">
+     10d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21042" id="ember43">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21042" href="/t/deploy-uniswap-v3-on-moonbeam-2023/21042" role="heading">
+     Deploy Uniswap v3 on Moonbeam (2023)
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="AbdullahUmar" href="/u/abdullahumar">
+    <img alt="" aria-label="AbdullahUmar - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/abdullahumar/50/6588_2.png" title="AbdullahUmar - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="kohei" href="/u/kohei">
+    <img alt="" aria-label="kohei - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/kohei/50/7316_2.png" title="kohei - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="timcook" href="/u/timcook">
+    <img alt="" aria-label="timcook - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/t/ebca7d/50.png" title="timcook - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="RobotZA" href="/u/robotza">
+    <img alt="" aria-label="RobotZA - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/r/d9b06d/50.png" title="RobotZA - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="turrizt" href="/u/turrizt">
+    <img alt="" aria-label="turrizt - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/turrizt/50/7268_2.png" title="turrizt - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts heatmap-high topic-list-data" title="This topic has 12 replies with an extremely high like to post ratio">
+   <button aria-label="This topic has 12 replies with an extremely high like to post ratio" class="btn-link posts-map badge-posts heatmap-high">
+    <span class="number">
+     12
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-low topic-list-data">
+   <span class="number" title="this topic has been viewed 2078 times">
+    2.1k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-low activity" title="First post: Apr 17, 2023 9:40 pm
+Posted: May 17, 2023 2:23 pm
+">
+   <a class="post-activity" href="/t/deploy-uniswap-v3-on-moonbeam-2023/21042/13">
+    <span class="relative-date" data-format="tiny" data-time="1684313598925">
+     11d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-delegation-pitch ember-view" data-topic-id="21243" id="ember44">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21243" href="/t/keyrock-delegate-platform/21243" role="heading">
+     Keyrock Delegate Platform
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/delegation-pitch/6">
+     <span class="badge-category-bg" style="background-color: #12A89D;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="Explain why members of the Uniswap community may want to delegate their votes to you!">
+      <span class="category-name">
+       Delegation Pitch
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="0xkeyrock.eth" href="/u/0xkeyrock.eth">
+    <img alt="" aria-label="0xkeyrock.eth - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/0xkeyrock.eth/50/7304_2.png" title="0xkeyrock.eth - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 0 replies">
+   <button aria-label="This topic has 0 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     0
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 160 times">
+    160
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 16, 2023 2:57 pm
+Posted: May 16, 2023 2:57 pm
+">
+   <a class="post-activity" href="/t/keyrock-delegate-platform/21243/1">
+    <span class="relative-date" data-format="tiny" data-time="1684229273883">
+     12d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-delegation-pitch ember-view" data-topic-id="21240" id="ember45">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21240" href="/t/stablelab-delegate-platform/21240" role="heading">
+     StableLab Delegate Platform
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/delegation-pitch/6">
+     <span class="badge-category-bg" style="background-color: #12A89D;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="Explain why members of the Uniswap community may want to delegate their votes to you!">
+      <span class="category-name">
+       Delegation Pitch
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="Doo_StableLab" href="/u/doo_stablelab">
+    <img alt="" aria-label="Doo_StableLab - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/doo_stablelab/50/7042_2.png" title="Doo_StableLab - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 1 reply">
+   <button aria-label="This topic has 1 reply" class="btn-link posts-map badge-posts">
+    <span class="number">
+     1
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 193 times">
+    193
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 16, 2023 12:16 am
+Posted: May 16, 2023 2:43 am
+">
+   <a class="post-activity" href="/t/stablelab-delegate-platform/21240/2">
+    <span class="relative-date" data-format="tiny" data-time="1684185189561">
+     13d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-delegation-pitch ember-view" data-topic-id="21241" id="ember46">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21241" href="/t/esk3nder-ens-labs-delegate-platform/21241" role="heading">
+     @Esk3nder [ENS Labs] Delegate Platform
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/delegation-pitch/6">
+     <span class="badge-category-bg" style="background-color: #12A89D;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="Explain why members of the Uniswap community may want to delegate their votes to you!">
+      <span class="category-name">
+       Delegation Pitch
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="Esk3nder" href="/u/esk3nder">
+    <img alt="" aria-label="Esk3nder - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/esk3nder/50/7456_2.png" title="Esk3nder - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 0 replies">
+   <button aria-label="This topic has 0 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     0
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 155 times">
+    155
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 16, 2023 12:16 am
+Posted: May 16, 2023 12:16 am
+">
+   <a class="post-activity" href="/t/esk3nder-ens-labs-delegate-platform/21241/1">
+    <span class="relative-date" data-format="tiny" data-time="1684176405299">
+     13d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-uncategorized ember-view" data-topic-id="11464" id="ember47">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="11464" href="/t/new-project-ideas/11464" role="heading">
+     New project ideas
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="jhrojas1967" href="/u/jhrojas1967">
+    <img alt="" aria-label="jhrojas1967 - Original Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/j/ecb155/50.png" title="jhrojas1967 - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="l3a0" href="/u/l3a0">
+    <img alt="" aria-label="l3a0 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/l3a0/50/646_2.png" title="l3a0 - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="SHAZIZZ" href="/u/shazizz">
+    <img alt="" aria-label="SHAZIZZ - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/shazizz/50/7306_2.png" title="SHAZIZZ - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="Xorrdy10" href="/u/xorrdy10">
+    <img alt="" aria-label="Xorrdy10 - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/x/b5e925/50.png" title="Xorrdy10 - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 3 replies">
+   <button aria-label="This topic has 3 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     3
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 1269 times">
+    1.3k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-high activity" title="First post: Apr 14, 2021 2:57 am
+Posted: May 15, 2023 10:32 pm
+">
+   <a class="post-activity" href="/t/new-project-ideas/11464/4">
+    <span class="relative-date" data-format="tiny" data-time="1684170157476">
+     13d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21224" id="ember48">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21224" href="/t/deploy-uniswap-v3-on-ontology-evm/21224" role="heading">
+     Deploy Uniswap v3 on Ontology EVM
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="OntologyNetwork" href="/u/ontologynetwork">
+    <img alt="" aria-label="OntologyNetwork - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/o/90ced4/50.png" title="OntologyNetwork - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 0 replies">
+   <button aria-label="This topic has 0 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     0
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 417 times">
+    417
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 12, 2023 12:17 pm
+Posted: May 12, 2023 12:17 pm
+">
+   <a class="post-activity" href="/t/deploy-uniswap-v3-on-ontology-evm/21224/1">
+    <span class="relative-date" data-format="tiny" data-time="1683874060633">
+     16d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-delegation-pitch ember-view" data-topic-id="21219" id="ember49">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21219" href="/t/blockworks-research-delegate-platform/21219" role="heading">
+     Blockworks Research Delegate Platform
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/delegation-pitch/6">
+     <span class="badge-category-bg" style="background-color: #12A89D;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="Explain why members of the Uniswap community may want to delegate their votes to you!">
+      <span class="category-name">
+       Delegation Pitch
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="BlockworksResearch" href="/u/blockworksresearch">
+    <img alt="" aria-label="BlockworksResearch - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/blockworksresearch/50/7292_2.png" title="BlockworksResearch - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 0 replies">
+   <button aria-label="This topic has 0 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     0
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 219 times">
+    219
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 11, 2023 10:15 pm
+Posted: May 11, 2023 10:15 pm
+">
+   <a class="post-activity" href="/t/blockworks-research-delegate-platform/21219/1">
+    <span class="relative-date" data-format="tiny" data-time="1683823523594">
+     17d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-temperature-check ember-view" data-topic-id="16513" id="ember50">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="16513" href="/t/temperature-check-should-uniswap-v3-be-deployed-to-gnosis-chain/16513" role="heading">
+     Temperature Check - Should Uniswap v3 be deployed to Gnosis Chain?
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/temperature-check/9">
+     <span class="badge-category-bg" style="background-color: #F7941D;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="The purpose of the Temperature Check is to determine if there is sufficient will to make changes to the status quo.">
+      <span class="category-name">
+       Temperature Check
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="Stefan" href="/u/stefan">
+    <img alt="" aria-label="Stefan - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/stefan/50/5023_2.png" title="Stefan - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="tobyshorin" href="/u/tobyshorin">
+    <img alt="" aria-label="tobyshorin - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/tobyshorin/50/3867_2.png" title="tobyshorin - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="jademckinley08" href="/u/jademckinley08">
+    <img alt="" aria-label="jademckinley08 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/jademckinley08/50/5681_2.png" title="jademckinley08 - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="phimarhal" href="/u/phimarhal">
+    <img alt="" aria-label="phimarhal - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/p/ccd318/50.png" title="phimarhal - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="GFXlabs" href="/u/gfxlabs">
+    <img alt="" aria-label="GFXlabs - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/gfxlabs/50/4510_2.png" title="GFXlabs - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts heatmap-low topic-list-data" title="This topic has 10 replies with a high like to post ratio">
+   <button aria-label="This topic has 10 replies with a high like to post ratio" class="btn-link posts-map badge-posts heatmap-low">
+    <span class="number">
+     10
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-med topic-list-data">
+   <span class="number" title="this topic has been viewed 3970 times">
+    4.0k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-high activity" title="First post: Mar 22, 2022 6:48 pm
+Posted: May 9, 2023 1:39 am
+">
+   <a class="post-activity" href="/t/temperature-check-should-uniswap-v3-be-deployed-to-gnosis-chain/16513/11">
+    <span class="relative-date" data-format="tiny" data-time="1683576549356">
+     20d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-delegation-pitch ember-view" data-topic-id="17064" id="ember51">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="17064" href="/t/mhonkasalo-teemulau-delegate-platform/17064" role="heading">
+     Mhonkasalo &amp; teemulau Delegate Platform
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/delegation-pitch/6">
+     <span class="badge-category-bg" style="background-color: #12A89D;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="Explain why members of the Uniswap community may want to delegate their votes to you!">
+      <span class="category-name">
+       Delegation Pitch
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest" data-user-card="teemulau" href="/u/teemulau">
+    <img alt="" aria-label="teemulau - Original Poster, Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/teemulau/50/7445_2.png" title="teemulau - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="Athayde3586" href="/u/athayde3586">
+    <img alt="" aria-label="Athayde3586 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/athayde3586/50/5340_2.png" title="Athayde3586 - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="devinwalsh" href="/u/devinwalsh">
+    <img alt="" aria-label="devinwalsh - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/devinwalsh/50/5593_2.png" title="devinwalsh - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="mhonkasalo" href="/u/mhonkasalo">
+    <img alt="" aria-label="mhonkasalo - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/mhonkasalo/50/5420_2.png" title="mhonkasalo - Frequent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 7 replies">
+   <button aria-label="This topic has 7 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     7
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-low topic-list-data">
+   <span class="number" title="this topic has been viewed 1753 times">
+    1.8k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-high activity" title="First post: Jul 6, 2022 6:56 pm
+Posted: May 8, 2023 12:59 pm
+">
+   <a class="post-activity" href="/t/mhonkasalo-teemulau-delegate-platform/17064/9">
+    <span class="relative-date" data-format="tiny" data-time="1683530957035">
+     20d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-governance-meta ember-view" data-topic-id="21160" id="ember52">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21160" href="/t/messari-governance-alerts-for-the-uniswap-community/21160" role="heading">
+     Messari Governance Alerts for the Uniswap Community
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/governance-meta/8">
+     <span class="badge-category-bg" style="background-color: #652D90;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="This section is for discussions around governance systems, ways of distributing resources, how the community should think about governance responsibilities–basically all things related to governance, but which are not a specific proposal.">
+      <span class="category-name">
+       Governance-Meta
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="raho" href="/u/raho">
+    <img alt="" aria-label="raho - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/r/bbce88/50.png" title="raho - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 0 replies">
+   <button aria-label="This topic has 0 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     0
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 292 times">
+    292
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 5, 2023 12:26 am
+Posted: May 5, 2023 9:22 pm
+">
+   <a class="post-activity" href="/t/messari-governance-alerts-for-the-uniswap-community/21160/1">
+    <span class="relative-date" data-format="tiny" data-time="1683301950596">
+     23d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-uncategorized ember-view" data-topic-id="11164" id="ember53">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="11164" href="/t/what-do-you-think-of-the-initial-airdrop/11164" role="heading">
+     What do you think of the initial airdrop?
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="jhrojas1967" href="/u/jhrojas1967">
+    <img alt="" aria-label="jhrojas1967 - Original Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/j/ecb155/50.png" title="jhrojas1967 - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="allo" href="/u/allo">
+    <img alt="" aria-label="allo - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/allo/50/1861_2.png" title="allo - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="Zackilo" href="/u/zackilo">
+    <img alt="" aria-label="Zackilo - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/zackilo/50/3038_2.png" title="Zackilo - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="Kripto" href="/u/kripto">
+    <img alt="" aria-label="Kripto - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/k/48db29/50.png" title="Kripto - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="kmiller62571" href="/u/kmiller62571">
+    <img alt="" aria-label="kmiller62571 - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/kmiller62571/50/2872_2.png" title="kmiller62571 - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts heatmap-med topic-list-data" title="This topic has 66 replies with a very high like to post ratio">
+   <button aria-label="This topic has 66 replies with a very high like to post ratio" class="btn-link posts-map badge-posts heatmap-med">
+    <span class="number">
+     66
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-med topic-list-data">
+   <span class="number" title="this topic has been viewed 4171 times">
+    4.2k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-high activity" title="First post: Mar 26, 2021 3:21 am
+Posted: May 4, 2023 4:33 pm
+">
+   <a class="post-activity" href="/t/what-do-you-think-of-the-initial-airdrop/11164/69">
+    <span class="relative-date" data-format="tiny" data-time="1683198223261">
+     24d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-governance-meta ember-view" data-topic-id="21142" id="ember54">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21142" href="/t/a-simple-tool-to-lookup-delegators-of-an-uniswap-delegate/21142" role="heading">
+     A simple tool to lookup delegators of an Uniswap delegate
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/governance-meta/8">
+     <span class="badge-category-bg" style="background-color: #652D90;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="This section is for discussions around governance systems, ways of distributing resources, how the community should think about governance responsibilities–basically all things related to governance, but which are not a specific proposal.">
+      <span class="category-name">
+       Governance-Meta
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest single" data-user-card="mmurthy" href="/u/mmurthy">
+    <img alt="" aria-label="mmurthy - Original Poster, Most Recent Poster" class="avatar latest single" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/m/c4cdca/50.png" title="mmurthy - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 0 replies">
+   <button aria-label="This topic has 0 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     0
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 168 times">
+    168
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 3, 2023 12:50 am
+Posted: May 3, 2023 12:50 am
+">
+   <a class="post-activity" href="/t/a-simple-tool-to-lookup-delegators-of-an-uniswap-delegate/21142/1">
+    <span class="relative-date" data-format="tiny" data-time="1683055227091">
+     26d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21133" id="ember55">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21133" href="/t/launch-of-uniswap-agora-delegate-race/21133" role="heading">
+     Launch of Uniswap Agora &amp; Delegate Race
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="honn24x" href="/u/honn24x">
+    <img alt="" aria-label="honn24x - Original Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/h/3da27b/50.png" title="honn24x - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="MattOnChain" href="/u/mattonchain">
+    <img alt="" aria-label="MattOnChain - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/mattonchain/50/6983_2.png" title="MattOnChain - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="devinwalsh" href="/u/devinwalsh">
+    <img alt="" aria-label="devinwalsh - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/devinwalsh/50/5593_2.png" title="devinwalsh - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 2 replies">
+   <button aria-label="This topic has 2 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     2
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 1166 times">
+    1.2k
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: May 1, 2023 9:45 pm
+Posted: May 2, 2023 12:11 am
+">
+   <a class="post-activity" href="/t/launch-of-uniswap-agora-delegate-race/21133/3">
+    <span class="relative-date" data-format="tiny" data-time="1682966511895">
+     27d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-uncategorized ember-view" data-topic-id="21043" id="ember56">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21043" href="/t/governance-proposal-create-the-uniswap-accountability-committee/21043" role="heading">
+     Governance Proposal: Create the Uniswap Accountability Committee
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="tobyshorin" href="/u/tobyshorin">
+    <img alt="" aria-label="tobyshorin - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/tobyshorin/50/3867_2.png" title="tobyshorin - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="Maneki" href="/u/maneki">
+    <img alt="" aria-label="Maneki - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/m/eb8c5e/50.png" title="Maneki - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="MattOnChain" href="/u/mattonchain">
+    <img alt="" aria-label="MattOnChain - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/mattonchain/50/6983_2.png" title="MattOnChain - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 3 replies">
+   <button aria-label="This topic has 3 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     3
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 542 times">
+    542
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: Apr 18, 2023 12:10 am
+Posted: May 1, 2023 11:24 pm
+">
+   <a class="post-activity" href="/t/governance-proposal-create-the-uniswap-accountability-committee/21043/4">
+    <span class="relative-date" data-format="tiny" data-time="1682963656576">
+     27d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21068" id="ember57">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21068" href="/t/phase-3-optimism-uniswap-protocol-liquidity-mining-program-update/21068" role="heading">
+     Phase 3 - Optimism-Uniswap Protocol Liquidity Mining Program Update
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest" data-user-card="honn24x" href="/u/honn24x">
+    <img alt="" aria-label="honn24x - Original Poster, Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://avatars.discourse-cdn.com/v4/letter/h/3da27b/50.png" title="honn24x - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="BP333" href="/u/bp333">
+    <img alt="" aria-label="BP333 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/bp333/50/5493_2.png" title="BP333 - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="barbarossa_Arrakis" href="/u/barbarossa_arrakis">
+    <img alt="" aria-label="barbarossa_Arrakis - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/barbarossa_arrakis/50/5809_2.png" title="barbarossa_Arrakis - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="mjc716" href="/u/mjc716">
+    <img alt="" aria-label="mjc716 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/mjc716/50/6749_2.png" title="mjc716 - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="OxAirboom" href="/u/oxairboom">
+    <img alt="" aria-label="OxAirboom - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/oxairboom/50/7417_2.png" title="OxAirboom - Frequent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 9 replies">
+   <button aria-label="This topic has 9 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     9
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 859 times">
+    859
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: Apr 21, 2023 3:34 am
+Posted: Apr 29, 2023 12:00 am
+">
+   <a class="post-activity" href="/t/phase-3-optimism-uniswap-protocol-liquidity-mining-program-update/21068/10">
+    <span class="relative-date" data-format="tiny" data-time="1682706651120">
+     30d
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-proposal-discussion ember-view" data-topic-id="21089" id="ember58">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="21089" href="/t/rfc-uniswap-v3-deployment-on-taiko/21089" role="heading">
+     [RFC] Uniswap V3 deployment on Taiko
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+    <a class="badge-wrapper bar" href="/c/proposal-discussion/5">
+     <span class="badge-category-bg" style="background-color: #0088CC;">
+     </span>
+     <span class="badge-category clear-badge" data-drop-close="true" title="For the discussion and informal consensus-gathering work related to potential governance proposals.">
+      <span class="category-name">
+       Proposal Discussion
+      </span>
+     </span>
+    </a>
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="latest" data-user-card="sthwnd" href="/u/sthwnd">
+    <img alt="" aria-label="sthwnd - Original Poster, Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/sthwnd/50/7404_2.png" title="sthwnd - Original Poster, Most Recent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="devenmatthews" href="/u/devenmatthews">
+    <img alt="" aria-label="devenmatthews - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/devenmatthews/50/5184_2.png" title="devenmatthews - Frequent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts topic-list-data" title="This topic has 2 replies">
+   <button aria-label="This topic has 2 replies" class="btn-link posts-map badge-posts">
+    <span class="number">
+     2
+    </span>
+   </button>
+  </td>
+  <td class="num views topic-list-data">
+   <span class="number" title="this topic has been viewed 402 times">
+    402
+   </span>
+  </td>
+  <td class="num topic-list-data age activity" title="First post: Apr 24, 2023 7:58 pm
+Posted: Apr 26, 2023 5:13 pm
+">
+   <a class="post-activity" href="/t/rfc-uniswap-v3-deployment-on-taiko/21089/3">
+    <span class="relative-date" data-format="tiny" data-time="1682509383414">
+     Apr 26
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+ <tr class="topic-list-item category-uncategorized ember-view" data-topic-id="18114" id="ember59">
+  <td class="main-link clearfix topic-list-data" colspan="1">
+   <span class="link-top-line">
+    <a aria-level="2" class="title raw-link raw-topic-link" data-topic-id="18114" href="/t/temperature-check-deploy-uniswap-v3-on-scroll/18114" role="heading">
+     Temperature Check: Deploy Uniswap v3 on Scroll
+    </a>
+    <span class="topic-post-badges">
+    </span>
+   </span>
+   <div class="link-bottom-line">
+   </div>
+  </td>
+  <td class="posters topic-list-data">
+   <a class="" data-user-card="Scroll" href="/u/scroll">
+    <img alt="" aria-label="Scroll - Original Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/scroll/50/5900_2.png" title="Scroll - Original Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="eek637" href="/u/eek637">
+    <img alt="" aria-label="eek637 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/eek637/50/7037_2.png" title="eek637 - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="dghelm" href="/u/dghelm">
+    <img alt="" aria-label="dghelm - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/dghelm/50/5998_2.png" title="dghelm - Frequent Poster" width="25"/>
+   </a>
+   <a class="" data-user-card="hadifalahi4142" href="/u/hadifalahi4142">
+    <img alt="" aria-label="hadifalahi4142 - Frequent Poster" class="avatar" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/hadifalahi4142/50/6949_2.png" title="hadifalahi4142 - Frequent Poster" width="25"/>
+   </a>
+   <a class="latest" data-user-card="Bettyrockergit" href="/u/bettyrockergit">
+    <img alt="" aria-label="Bettyrockergit - Most Recent Poster" class="avatar latest" height="25" loading="lazy" src="https://sea2.discourse-cdn.com/business6/user_avatar/gov.uniswap.org/bettyrockergit/50/7144_2.png" title="Bettyrockergit - Most Recent Poster" width="25"/>
+   </a>
+  </td>
+  <td class="num posts-map posts heatmap-high topic-list-data" title="This topic has 55 replies with an extremely high like to post ratio">
+   <button aria-label="This topic has 55 replies with an extremely high like to post ratio" class="btn-link posts-map badge-posts heatmap-high">
+    <span class="number">
+     55
+    </span>
+   </button>
+  </td>
+  <td class="num views heatmap-high topic-list-data">
+   <span class="number" title="this topic has been viewed 18746 times">
+    18.7k
+   </span>
+  </td>
+  <td class="num topic-list-data age coldmap-med activity" title="First post: Nov 28, 2022 5:50 pm
+Posted: Apr 24, 2023 1:03 pm
+">
+   <a class="post-activity" href="/t/temperature-check-deploy-uniswap-v3-on-scroll/18114/226">
+    <span class="relative-date" data-format="tiny" data-time="1682321604454">
+     Apr 24
+    </span>
+   </a>
+  </td>
+ </tr>
+ <!-- -->
+ <!-- -->
+</tbody>
